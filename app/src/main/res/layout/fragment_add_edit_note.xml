@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    style="@style/backgroundColor"
+    android:layout_height="match_parent"
+    tools:context=".ui.notes.edit.AddEditNoteFragment">
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout2"
+        style="@style/Base.Widget.MaterialComponents.TextInputLayout.style"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginHorizontal="10dp"
+        android:hint="Content"
+
+        android:lines="15"
+        android:textAlignment="textStart"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout"
+        tools:layout_editor_absoluteX="9dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/noteContentEditText"
+            android:layout_width="match_parent"
+            android:textAlignment="textStart"
+            android:gravity="start"
+            android:fontFamily="@font/asapcondensed"
+            android:layout_height="263dp"
+            android:maxLines="15" />
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout"
+        style="@style/Base.Widget.MaterialComponents.TextInputLayout.style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginHorizontal="10dp"
+        android:hint="Title"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="9dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/noteTitleEditText"
+            android:fontFamily="@font/asapcondensed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/ic_baseline_date_range_24"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout2" />
+
+    <TextView
+        android:id="@+id/currentDateNote"
+        style="@style/textview.style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="5dp"
+        android:fontFamily="@font/asapcondensed"
+        android:gravity="start"
+        android:text="12/12/1"
+        android:textSize="20dp"
+        app:layout_constraintStart_toEndOf="@+id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout2" />
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/noteAddEditFloatBttn"
+        style="@style/Floating2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="25dp"
+        android:contentDescription="TODO"
+        android:tint="@null"
+        app:backgroundTint="@null"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

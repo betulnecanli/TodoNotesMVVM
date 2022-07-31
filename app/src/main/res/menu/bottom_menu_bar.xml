@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item
+            android:id="@+id/tasksFragment"
+            android:icon="@drawable/icon_todo"
+            android:title="TO-DO"
+            app:showAsAction="always"/>
+
+        <item
+            android:id="@+id/notesFragment"
+            android:icon="@drawable/icon_notes"
+            android:title="Notes"
+            app:showAsAction="always"/>
+</menu>
