@@ -14,9 +14,9 @@
 
 
 ### NOTES 📒
- Add&Delete  | Search&Edit  | Hide Completed
+ Add&Delete  | Search&Edit  | Sort Order
 ------------- | ------------- | -------------
-![](https://im.ezgif.com/tmp/ezgif-1-dd48e1f242.gif)  | ![](https://im.ezgif.com/tmp/ezgif-1-4651365a2c.gif)  | ![](https://im.ezgif.com/tmp/ezgif-1-425d6b1b00.gif)
+![](https://im.ezgif.com/tmp/ezgif-1-ded59d2fe5.gif)  | ![]()  | ![]()
 
 
 
