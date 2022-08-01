@@ -16,7 +16,7 @@
 ### NOTES 📒
  Add&Delete  | Search&Edit  | Sort Order
 ------------- | ------------- | -------------
-![](https://im.ezgif.com/tmp/ezgif-1-ded59d2fe5.gif)  | ![]()  | ![]()
+![](https://im.ezgif.com/tmp/ezgif-1-ded59d2fe5.gif)  | ![](https://im.ezgif.com/tmp/ezgif-1-ba770f369a.gif)  | ![]()
 
 
 
