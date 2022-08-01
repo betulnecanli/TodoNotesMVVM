@@ -10,7 +10,7 @@
 ### TODO 📝
  Add&Delete  | Search&Edit
 ------------- | -------------
-![](https://im.ezgif.com/tmp/ezgif-1-dd48e1f242.gif)  | Content Cell
+![](https://im.ezgif.com/tmp/ezgif-1-dd48e1f242.gif)  | ![](https://im.ezgif.com/tmp/ezgif-1-4651365a2c.gif)
 
 
 
