@@ -8,9 +8,9 @@
 
 
 ### TODO 📝
- Add&Delete  | Search&Edit
-------------- | -------------
-![](https://im.ezgif.com/tmp/ezgif-1-dd48e1f242.gif)  | ![](https://im.ezgif.com/tmp/ezgif-1-4651365a2c.gif)
+ Add&Delete  | Search&Edit  | Hide Completed
+------------- | ------------- | -------------
+![](https://im.ezgif.com/tmp/ezgif-1-dd48e1f242.gif)  | ![](https://im.ezgif.com/tmp/ezgif-1-4651365a2c.gif)  | ![](https://im.ezgif.com/tmp/ezgif-1-425d6b1b00.gif)
 
 
 
