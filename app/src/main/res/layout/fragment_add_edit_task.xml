@@ -15,12 +15,26 @@
         app:layout_constraintTop_toTopOf="parent"
         android:orientation="vertical">
 
-        <EditText
-            android:id="@+id/task_edit_text"
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/textInputLayout"
+            style="@style/Base.Widget.MaterialComponents.TextInputLayout.style"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:fontFamily="@font/asapcondensed"
-            android:layout_margin="20dp" />
+            android:layout_marginTop="5dp"
+            android:layout_marginHorizontal="10dp"
+            android:hint="Task"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:layout_editor_absoluteX="9dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/task_edit_text"
+                android:fontFamily="@font/asapcondensed"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
 
 
         <LinearLayout
