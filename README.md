@@ -10,13 +10,13 @@
 ### TODO 📝
  Add&Delete  | Search&Edit  | Hide Completed
 ------------- | ------------- | -------------
-![](https://im.ezgif.com/tmp/ezgif-1-dd48e1f242.gif)  | ![](https://im.ezgif.com/tmp/ezgif-1-4651365a2c.gif)  | ![](https://im.ezgif.com/tmp/ezgif-1-425d6b1b00.gif)
+![](https://github.com/betulnecanli/TodoNotesMVVM/blob/master/ScreenGifs/addtodo.gif?raw=true)  | ![](https://github.com/betulnecanli/TodoNotesMVVM/blob/master/ScreenGifs/searchedittodo.gif?raw=true)  | ![](https://github.com/betulnecanli/TodoNotesMVVM/blob/master/ScreenGifs/hidecompleted.gif?raw=true)
 
 
 ### NOTES 📒
  Add&Delete  | Search&Edit  | Sort by Name or Date
 ------------- | ------------- | -------------
-![](https://im.ezgif.com/tmp/ezgif-1-ded59d2fe5.gif)  | ![](https://im.ezgif.com/tmp/ezgif-1-ba770f369a.gif)  | ![](https://im.ezgif.com/tmp/ezgif-1-de598f9924.gif)
+![](https://github.com/betulnecanli/TodoNotesMVVM/blob/master/ScreenGifs/addnote.gif?raw=true)  | ![](https://github.com/betulnecanli/TodoNotesMVVM/blob/master/ScreenGifs/searcheditnotes.gif?raw=true)  | ![](https://github.com/betulnecanli/TodoNotesMVVM/blob/master/ScreenGifs/sortnotes.gif?raw=true)
 
 
 
