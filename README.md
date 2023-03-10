@@ -39,7 +39,7 @@ This app follows the MVVM (Model-View-ViewModel) architecture pattern. The compo
 
 To run this app, you'll need to have Android Studio installed. Follow these steps to get started:
 
- - Clone this repository: git clone https://github.com/betulnecanli/RickandMortyMVVM.git
+ - Clone this repository: git clone https://github.com/betulnecanli/TodoNotesMVVM.git
  - Open the project in Android Studio.
  - Build and run the app.
 
